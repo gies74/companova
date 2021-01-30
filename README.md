@@ -15,3 +15,5 @@ Usage: companova::run(<input>)
     row where O(j) is compared with O(i). The first cell of a row contains
     the identifier i (or j) while the other 7 contain counts of thelisteners judgements on a seven
     point scale.
+
+For more details, see Rietveld, Toni (2021) Subjective Measurement Techniques for Speech and Language Pathology. London: Routledge
