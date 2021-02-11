@@ -1,14 +1,14 @@
-# companova
+# companova2
 
-R implementation of COMPANOVA
+R implementation of COMPANOVA2
 
-The purpose of companova is to execute an ANOVA on the
+The purpose of companova2 is to execute an ANOVA on the
 results of an experiment with comparative judgements as
 proposed by Scheffe, H.  Journal of the statistical
 association 1952, 47, 381-400: An Analysis Of Variance For
 Paired Comparisons
 
-Usage: companova::run(<input>)
+Usage: companova2::run(<input>)
     where "input" refers to a plaintext file, having 8 columns separated
     by spaces or tabs. Each row corresponds to a judgement. For an odd
     row where object O(i) is compared with object O(j) is followed by a

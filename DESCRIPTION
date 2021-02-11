@@ -1,4 +1,4 @@
-Package: companova
+Package: companova2
 Type: Package
 Title: execute an ANOVA on the results of an experiment with comparative judgements
 Version: 1.0.0
